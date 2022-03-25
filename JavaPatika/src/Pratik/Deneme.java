@@ -10,7 +10,6 @@ public class Deneme {
         sayi=input.nextInt();
        for(int i=1;i<=sayi;i++)
        {
-
            if(i%3==0&&i%4==0)
            {
                toplam+=i;
